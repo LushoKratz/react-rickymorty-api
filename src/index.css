@@ -1,0 +1,15 @@
+html{
+    background: #263238;
+}
+
+.Contenedor{
+    padding: 30px;
+}
+
+.MT{
+    margin-top: 50px;
+}
+
+.NoWrap{
+    flex-wrap: nowrap;
+}
